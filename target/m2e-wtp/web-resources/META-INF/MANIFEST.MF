@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: herbe
+Build-Jdk: 15.0.1
+Implementation-Title: cursospringrestapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: curso.api.rest
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cursospringrestapi
+Created-By: Maven Integration for Eclipse
+
